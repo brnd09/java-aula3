@@ -1,4 +1,4 @@
-package com.mycompany.televisao;
+package com.mycompany.Televisao;
 
 class Main {
 
